@@ -19,9 +19,9 @@
   <br>
    Gazipur, Dhaka, Bangladesh  
   <br><br>
-  🌐 <a href="https://razaul-karim.netlify.app/" target="_blank">Portfolio</a> | 
-  💼 <a href="https://www.linkedin.com/in/dev-razaul-karim/" target="_blank">LinkedIn</a> | 
-   <a href="https://www.facebook.com/dev.rktanvir" target="_blank">Facebook</a>
+  <a href="https://razaul-karim.netlify.app/" target="_blank">Portfolio</a> | 
+  <a href="https://www.linkedin.com/in/dev-razaul-karim/" target="_blank">LinkedIn</a> | 
+  <a href="https://www.facebook.com/dev.rktanvir" target="_blank">Facebook</a>
 </p>
 
 ---
@@ -51,7 +51,7 @@ I’m a **quick learner**, **problem solver**, and **team player**, always eager
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
@@ -71,12 +71,12 @@ I’m a **quick learner**, **problem solver**, and **team player**, always eager
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=react" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=react" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-rktanvir&show_icons=true&theme=react" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rktanvir&layout=compact&theme=react" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=react" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=dev-rktanvir&theme=react" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ I’m a **quick learner**, **problem solver**, and **team player**, always eager
 
 ### Education
 
-** Complete Web Development Course — Programming Hero**  
+**Complete Web Development Course — Programming Hero**  
  Dhaka, Bangladesh  
  December 2024 – October 2025  
 > Focused on MERN stack, Firebase, GitHub, and deployment workflows.
@@ -140,7 +140,7 @@ Developed & deployed **5+ full-stack MERN applications**
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=blue" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=dev-rktanvir&style=for-the-badge&color=blue" alt="Profile Views Counter"/>
 </p>
 
 <h3 align="center">💬 “Code is like art — it speaks where words fail.”</h3>
