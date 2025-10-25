@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/gvrRZcT/developer-banner.png" alt="MD. Razaul Karim Banner" width="100%">
+  <img src="https://i.ibb.co.com/Vp2TZ5sN/Razaul-Karim-Banner.png" width="100%">
 </p>
 
 <!-- 🧑‍💻 Header -->
